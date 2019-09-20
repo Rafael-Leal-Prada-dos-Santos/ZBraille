@@ -1,0 +1,17 @@
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\ZBraillePrinter.exe.config
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\ZBraillePrinter.exe.manifest
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\ZBraillePrinter.application
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\ZBraillePrinter.exe
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\ZBraillePrinter.pdb
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\MaterialSkin.dll
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\ZBraillePrinter.Properties.Resources.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.frmMain.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.View.Form2.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\ZBraillePrinter.csproj.GenerateResource.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\ZBraillePrinter.csproj.CoreCompileInputs.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\ZBraillePrinter.exe.manifest
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\ZBraillePrinter.application
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\ZBraillePrinter.csproj.CopyComplete
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\ZBraillePrinter.exe
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\ZBraillePrinter.pdb
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\ZBraillePrinter.csprojAssemblyReference.cache

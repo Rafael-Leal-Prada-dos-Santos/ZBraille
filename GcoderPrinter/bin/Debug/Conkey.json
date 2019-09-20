@@ -1,0 +1,8 @@
+{
+  "xStep": 10,
+  "yStep": 10,
+  "servoUp": 45,
+  "servoDown": 4,
+  "maxCharLine": 20,
+  "doubleDot": true
+}

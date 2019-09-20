@@ -1,0 +1,121 @@
+D:\TCC\GcoderPrinter\GcoderPrinter\bin\Debug\GcoderPrinter.exe.config
+D:\TCC\GcoderPrinter\GcoderPrinter\bin\Debug\GcoderPrinter.exe
+D:\TCC\GcoderPrinter\GcoderPrinter\bin\Debug\GcoderPrinter.pdb
+D:\TCC\GcoderPrinter\GcoderPrinter\obj\Debug\GcoderPrinter.csprojAssemblyReference.cache
+D:\TCC\GcoderPrinter\GcoderPrinter\obj\Debug\GcoderPrinter.Properties.Resources.resources
+D:\TCC\GcoderPrinter\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.GenerateResource.cache
+D:\TCC\GcoderPrinter\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CoreCompileInputs.cache
+D:\TCC\GcoderPrinter\GcoderPrinter\obj\Debug\GcoderPrinter.exe
+D:\TCC\GcoderPrinter\GcoderPrinter\obj\Debug\GcoderPrinter.pdb
+D:\TCC\GcoderPrinter\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+D:\TCC\GcoderPrinter\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.ResolveComReference.cache
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.csprojAssemblyReference.cache
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.exe
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.pdb
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.Properties.Resources.resources
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.GenerateResource.cache
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\bin\Debug\GcoderPrinter.exe.config
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\bin\Debug\GcoderPrinter.exe
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\bin\Debug\GcoderPrinter.pdb
+E:\GcoderPrinter-master\GcoderPrinter\bin\Debug\GcoderPrinter.exe.config
+E:\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.exe
+E:\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.pdb
+E:\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.csprojResolveAssemblyReference.cache
+E:\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.Properties.Resources.resources
+E:\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+E:\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.GenerateResource.Cache
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-daniel\GcoderPrinter\obj\Debug\GcoderPrinter.csprojAssemblyReference.cache
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-daniel\GcoderPrinter\obj\Debug\GcoderPrinter.Properties.Resources.resources
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-daniel\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-daniel\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.GenerateResource.cache
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-daniel\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CoreCompileInputs.cache
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-daniel\GcoderPrinter\obj\Debug\GcoderPrinter.exe
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-daniel\GcoderPrinter\bin\Debug\GcoderPrinter.exe.config
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-daniel\GcoderPrinter\bin\Debug\GcoderPrinter.exe
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-daniel\GcoderPrinter\bin\Debug\GcoderPrinter.pdb
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-daniel\GcoderPrinter\obj\Debug\GcoderPrinter.pdb
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\bin\Debug\MaterialSkin.dll
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-master\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CopyComplete
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csprojAssemblyReference.cache
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.Properties.Resources.resources
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.GenerateResource.cache
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CoreCompileInputs.cache
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.exe
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.pdb
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe.config
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.pdb
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+C:\Users\dnlsa\Documents\Faculdade\9 Ciclo\Projeto de Graduacao I\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CopyComplete
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe.config
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.pdb
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csprojAssemblyReference.cache
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.Properties.Resources.resources
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.GenerateResource.cache
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CopyComplete
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.exe
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.pdb
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe.manifest
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.application
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.exe.manifest
+C:\Users\Daniel Zanutto\Desktop\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.application
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe.config
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe.manifest
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.application
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.pdb
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csprojAssemblyReference.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.Properties.Resources.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.GenerateResource.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CoreCompileInputs.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.exe.manifest
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.application
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CopyComplete
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.exe
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.pdb
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe.config
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe.manifest
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.application
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.pdb
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csprojAssemblyReference.cache
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.Properties.Resources.resources
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.GenerateResource.cache
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.exe.manifest
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.application
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CopyComplete
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.exe
+C:\Users\Daniel Zanutto\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.pdb
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe.config
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe.manifest
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.application
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.exe
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\GcoderPrinter.pdb
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csprojAssemblyReference.cache
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.Properties.Resources.resources
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.GenerateResource.cache
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CoreCompileInputs.cache
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.exe.manifest
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.application
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.csproj.CopyComplete
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.exe
+C:\Users\dnlsa\Desktop\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.pdb

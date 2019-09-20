@@ -1,0 +1,17 @@
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\GcoderPrinter.exe.config
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\GcoderPrinter.exe.manifest
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\GcoderPrinter.application
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\GcoderPrinter.exe
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\GcoderPrinter.pdb
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Release\MaterialSkin.dll
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.csprojAssemblyReference.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.Properties.Resources.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.frmMain.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.View.Form2.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.csproj.GenerateResource.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.csproj.CoreCompileInputs.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.exe.manifest
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.application
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.csproj.CopyComplete
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.exe
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Release\GcoderPrinter.pdb

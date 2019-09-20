@@ -1,0 +1,110 @@
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csprojAssemblyReference.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.Properties.Resources.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.GenerateResource.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CoreCompileInputs.cache
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.config
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.manifest
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.application
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.pdb
+D:\TCC\GcoderPrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe.manifest
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.application
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CopyComplete
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe
+D:\TCC\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.pdb
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.config
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.manifest
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.application
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.pdb
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csprojAssemblyReference.cache
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.Properties.Resources.resources
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.GenerateResource.cache
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CoreCompileInputs.cache
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe.manifest
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.application
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CopyComplete
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe
+C:\Users\dnlsa\Documents\Faculdade\10º Ciclo\Projeto de Graduacao II\GcoderPrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.pdb
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.config
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.manifest
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.application
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.pdb
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csprojAssemblyReference.cache
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.Properties.Resources.resources
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.GenerateResource.cache
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe.manifest
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.application
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CopyComplete
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.pdb
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno Raphael\Desktop\Faculdade\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\Newtonsoft.Json.xml
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.config
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.manifest
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.application
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.pdb
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\Newtonsoft.Json.dll
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\bin\Debug\Newtonsoft.Json.xml
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csprojAssemblyReference.cache
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.Properties.Resources.resources
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.GenerateResource.cache
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CoreCompileInputs.cache
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe.manifest
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.application
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CopyComplete
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe
+D:\TCC\ZBraillePrinter-md\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.pdb
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.config
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.manifest
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.application
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.pdb
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe.manifest
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.application
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CopyComplete
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe
+C:\Users\Rafael\Desktop\Zbraille\Software\V15\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.pdb
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.config
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe.manifest
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.application
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.exe
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\bin\Debug\ZBraillePrinter.pdb
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\bin\Debug\MaterialSkin.dll
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.frmMain.resources
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\GcoderPrinter.View.Form2.resources
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe.manifest
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.application
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.csproj.CopyComplete
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.exe
+C:\Users\Rafael\Desktop\Zbraille\Software\V16\ZBraillePrinter-md\GcoderPrinter\obj\Debug\ZBraillePrinter.pdb
